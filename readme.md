@@ -77,6 +77,8 @@ npm start
 }
 ```
 
+Make sure to replace the `"args": ["/path/to/runpod-mcp-server/build/index.js"]` with the path to the build folder in the repository.
+
 4. Restart Claude for Desktop
 
 ## Usage Examples
